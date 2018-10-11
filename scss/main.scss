@@ -1,5 +1,6 @@
 // Moved all Variables and Mixins to seperate _config file and now importing them here
 @import "config";
+@import "menu";
 
 // select everything in css to not affect padding?
 * {
